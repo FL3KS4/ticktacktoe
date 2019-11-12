@@ -1,6 +1,7 @@
 # ticktacktoe
 Haskell program for ticktacktoe
-  ticktack :: Position -> [Position] -> IO () where 1.arg Position is size of board
+
+ticktack :: Position -> [Position] -> IO () where 1.arg Position is size of board
                                                     2.arg Player moves
                                                     
 -----------------------------------------------------------------                                           
